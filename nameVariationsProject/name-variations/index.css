@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+  color: #333;
+}
+
+.navbar {
+  background: #333;
+  padding: 10px;
+}
+.nav-brand {
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.container {
+  margin: 20px 0;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+input[type="text"] {
+  padding: 5px;
+  width: 200px;
+}
+
+.table {
+  border-collapse: collapse;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 500px;
+  background: #fff;
+}
+.table th,
+.table td {
+  padding: 6px;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+.table th {
+  background: #eee;
+}
